@@ -1,8 +1,18 @@
-# React + Vite
+ Requirement Document Link : https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ React Fundamental concepts used in the project:
+ -React router
+ -hooks like useState, useEffect, useLocation
+ -Sorting
+ -Nested routing etc
+ 
+ Handling and managing data: local storage
 
-Currently, two official plugins are available:
+ Features : 
+ Dynamic title,
+ Dynamic color at navbar,
+ Cart and wish list,
+ Details of each product,
+ Sort product by price
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
