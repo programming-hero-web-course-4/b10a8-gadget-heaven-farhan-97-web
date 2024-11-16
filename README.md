@@ -1,3 +1,6 @@
+ 
+Live link : https://zesty-squirrel-d695ae.netlify.app/
+ 
  Requirement Document Link : https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf
 
  React Fundamental concepts used in the project:
