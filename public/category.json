@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "category": "laptop",
+      "name": "Dell XPS 13",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "category": "phone",
+      "name": "Samsung Galaxy S21",
+      "price": 800
+    },
+    {
+      "id": 3,
+      "category": "accessory",
+      "name": "Apple AirPods Pro",
+      "price": 250
+    },
+    {
+      "id": 4,
+      "category": "smartphone",
+      "name": "iPhone 13",
+      "price": 1100
+    },
+    {
+      "id": 5,
+      "category": "macbook",
+      "name": "MacBook Pro 14-inch",
+      "price": 1999
+    },
+    {
+      "id": 6,
+      "category": "iphone",
+      "name": "iPhone 14 Pro",
+      "price": 1200
+    }
+  ]
+  
